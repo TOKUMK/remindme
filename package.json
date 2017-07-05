@@ -1,0 +1,18 @@
+{
+  "name": "remind-me",
+  "version": "1.0.0",
+  "description": "information management tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tokumk"
+  },
+  "keywords": [
+    "tokumk"
+  ],
+  "author": "JonathanCasey",
+  "license": "ISC"
+}
